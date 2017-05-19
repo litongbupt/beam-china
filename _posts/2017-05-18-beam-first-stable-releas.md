@@ -3,10 +3,9 @@ layout: post
 cover: false
 title: "Apache Beam发布了第一个稳定版"
 date:  2017-05-18 08:00:00
-description: "2.0.0是第一个Apache Beam的稳定版本，社区在声明中表示，在可预见的未来，会保持API稳定，并使Beam适合企业部署。"
-category: Beam
-tags: [Beam]
-subclass: 'post tag-fiction'
+category: beam
+tags: [beam]
+subclass: 'post tag-beam'
 ---
 
 Apache Beam社区很高兴地宣布[2.0.0版本](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces12)正式可用。这是第一个Apache Beam的稳定版本，社区在声明中表示，在可预见的未来，会保持API稳定，并使Beam适合企业部署。
