@@ -6,6 +6,7 @@ date:  2017-02-13 10:18:00
 tags: Beam
 subclass: 'post tag-beam'
 categories: 'beam'
+author: ceshi
 ---
 
 翻译自：[https://beam.apache.org/blog/2017/02/13/stateful-processing.html](https://beam.apache.org/blog/2017/02/13/stateful-processing.html)

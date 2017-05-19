@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Apache Beam: An advanced unified programming model'
-description: "Implement batch and streaming data processing jobs that run on any execution engine."
+name: 'Beam中国'
+description: "致力于打造国内最优秀的Beam社区。"
 
 # Author's info
 author: '相国'
