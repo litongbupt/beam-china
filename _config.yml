@@ -11,17 +11,17 @@ name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 # Author's info
-author: 'Casper McFadden'
+author: '相国'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: 相国
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+url: 'http://beam-china.com'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'beam-china.com'
+google_analytics: UA-53248719-2
+disqus: xiangguo
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
@@ -56,13 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: litongbupt
+repo: beam-china
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+relative_source: ../beam-china/
+destination: ../beam-china-pages/
+production_url:  https://litongbupt.github.io/beam-china
+source_url:      https://github.com/litongbupt/beam-china
 
 exclude:
   - README.md
