@@ -20,6 +20,7 @@ url: 'http://beam-china.com'
 image: 'assets/images/casper.png'
 
 short_url: 'beam-china.com'
+title:Beam 中国
 google_analytics: UA-53248719-2
 disqus: xiangguo
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
