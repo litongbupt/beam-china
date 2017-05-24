@@ -96,6 +96,9 @@ class: 'post-template'
             {% if page.disqus %}
                 {% include disqus.html %}
             {% endif %}
+            {% if page.uyan %}
+                {% include uyan.html %}
+            {% endif %}
             
         </footer>
 

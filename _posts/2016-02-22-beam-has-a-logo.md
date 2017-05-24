@@ -8,6 +8,7 @@ subclass: 'post tag-beam'
 categories: 'beam'
 author: 相国
 nickname: xiangguo
+uyan: true
 ---
 
 翻译自：[https://beam.apache.org/beam/update/website/2016/02/22/beam-has-a-logo.html)
