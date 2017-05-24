@@ -78,18 +78,23 @@ class: 'post-template'
 
             <section class="share">
                 <h4>分享这篇文章</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text={{ page.title }}&amp;url={{ site.url }}{{ page.url | remove: '/' }}"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | remove: '/' }}"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url | remove: '/' }}"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
+<!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+	<a class="jiathis_button_qzone"></a>
+	<a class="jiathis_button_tsina"></a>
+	<a class="jiathis_button_tqq"></a>
+	<a class="jiathis_button_weixin"></a>
+	<a class="jiathis_button_renren"></a>
+	<a href="http://www.jiathis.com/share?uid=1953182" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript">
+var jiathis_config = {data_track_clickback:'true'};
+</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1406647851441111" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+<!--
                 <a class="icon-wb-plus" href="http://service.weibo.com/share/share.php?url={{ site.url }}{{ page.url | remove: '/' }}&ralateUid=1751110627&language=zh_cn&searchPic=true&style=simple"
                    onclick="window.open(this.href, 'wb-plus-share', 'width=490,height=530');return false;">
 				   <img src="http://img.t.sinajs.cn/t4/appstyle/widget/images/shareButton/share_icon_mini.png?id=1375775002754"></img>
@@ -99,7 +104,7 @@ class: 'post-template'
 				
 				
 				<wb:share-button addition="simple" type="icon" ralateUid="1751110627"></wb:share-button>
-				
+				-->
 				
             </section>
             
