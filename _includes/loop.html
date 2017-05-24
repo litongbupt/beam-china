@@ -25,7 +25,7 @@
         <footer class="post-meta">
             {% if site.image %}<img class="author-thumb" src="{{ site.baseurl }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
             <!-- author -->
-            <a href='{{ site.baseurl }}author/{{ page.nickname }}'>{{ page.author }}</a>
+            <a href='{{ site.baseurl }}author/{{ post.nickname }}'>{{ post.author }}</a>
             <!-- [[tags prefix=" on "]] -->
             {% if post.tags.size > 0 %} 
                 on 
