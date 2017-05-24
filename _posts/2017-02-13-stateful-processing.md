@@ -3,7 +3,7 @@ layout: post
 cover: true
 title: 使用Apache Beam进行有状态的数据处理
 date:  2017-02-13 10:18:00
-tags: Beam
+tags: beam
 subclass: 'post tag-beam'
 categories: 'beam'
 author: 相国

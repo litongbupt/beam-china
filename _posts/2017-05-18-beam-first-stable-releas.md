@@ -4,7 +4,7 @@ cover: false
 title: "Apache Beam发布了第一个稳定版"
 date:  2017-05-18 08:00:00
 category: beam
-tags: [beam]
+tags: beam
 subclass: 'post tag-beam'
 author: 相国
 nickname: xiangguo
