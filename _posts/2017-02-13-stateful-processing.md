@@ -8,6 +8,7 @@ subclass: 'post tag-beam'
 categories: 'beam'
 author: 相国
 nickname: xiangguo
+uyan: true
 ---
 
 翻译自：[https://beam.apache.org/blog/2017/02/13/stateful-processing.html](https://beam.apache.org/blog/2017/02/13/stateful-processing.html)
